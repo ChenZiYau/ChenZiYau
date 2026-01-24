@@ -1,9 +1,9 @@
-<h2 align="center">👋 Hey There, My Name is Adam</h2>
+<h1 align="center">👋 Hey There, My Name is Adam</h1>
 
 
-<p align="center" style="font-size: 18px;">
+<h2 align="center">
 🎓 <strong>Diploma in Information Technology Student</strong> at <strong>Sunway College</strong>
-</p>
+</h2>
 
 <p align="center">
 🚀 Currently working on my <strong>Final Year Project</strong><br>
@@ -44,21 +44,4 @@
   <img src="https://img.shields.io/badge/apache%20ant-A81C7D?style=for-the-badge&logo=apacheant&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
-<hr>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ChenZiYau&theme=default&hide_border=false" />
-</p>
-
-<p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ChenZiYau&theme=default&hide_border=false" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenZiYau&layout=compact&theme=default&hide_border=false" />
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

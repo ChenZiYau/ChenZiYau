@@ -12,15 +12,6 @@ I am currently pursuing my <strong>Diploma in Information Technology</strong> at
 I enjoy building practical software systems, solving technical problems, and learning how real products are developed, maintained, and improved in production environments.
 </p>
 
-<p align="center">
-  <a href="mailto:adammychen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/adammychen">
-    <img src="https://img.shields.io/badge/GitHub-adammychen-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## About Me

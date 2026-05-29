@@ -121,8 +121,6 @@ The main goal of this project is to reduce workflow fragmentation and help users
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### Design, Productivity & Documentation
@@ -157,21 +155,6 @@ The main goal of this project is to reduce workflow fragmentation and help users
 
 ---
 
-## Developer Identity
-
-```txt
-I am not only focused on writing code.
-I am focused on understanding systems.
-
-Frontend      → Turning ideas into clean, usable interfaces
-Backend       → Understanding logic, APIs, data flow, and debugging
-Database      → Designing structured, searchable, and useful data
-AI Workflow   → Using AI tools to speed up development and planning
-Product Mind  → Thinking about how software solves real business problems
-```
-
----
-
 ## Areas I’m Interested In
 
 ```txt
@@ -185,34 +168,4 @@ Startup product development
 Debugging real-world systems
 ```
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adammychen&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adammychen&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## What I’m Learning Right Now
-
-```txt
-- Building cleaner full-stack applications
-- Understanding backend and database workflows
-- Improving debugging skills in real codebases
-- Creating better dashboard and reporting systems
-- Using AI tools to improve development speed
-- Thinking more like both a developer and product builder
-```
-
----
-
-<p align="center">
-  <strong>Building. Debugging. Learning. Improving.</strong>
-</p>
-
-<p align="center">
-  One project at a time.
-</p>
